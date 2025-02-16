@@ -1,0 +1,19 @@
+.banner{
+	margin: 0;
+	padding: 0;
+
+}
+.container{
+	margin: 0 auto;
+	width: 960px;
+	overflow: hidden;
+}
+.image{
+	box-sizing: border-box;
+	padding: 4px;
+	width: 33.33%;
+	float: left;
+}
+.image img{
+	width: 100%;
+}
